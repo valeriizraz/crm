@@ -7,3 +7,4 @@ const cellPhones = 'Мобильные телефоны';
 const phoneAppleXPrice = 999;
 
 console.log('phoneAppleX'); 
+console.log(54 * 999);
